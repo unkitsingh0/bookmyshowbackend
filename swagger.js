@@ -10,6 +10,9 @@ const swaggerDefinition = {
   },
   servers: [
     {
+      url: "https://bookmyshow-backend-31s5.onrender.com/",
+    },
+    {
       url: "http://localhost:8080",
     },
   ],
